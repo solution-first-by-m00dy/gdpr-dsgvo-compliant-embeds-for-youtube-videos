@@ -3,8 +3,8 @@ Contributors: solutionfirst
 Donate link: https://www.paypal.com/donate/?hosted_button_id=CUPZTPGSAHNKY
 Tags: youtube video, dsgvo, gdpr, iframe, privacy
 Requires at least: 4.9
-Tested up to: 6.8
-Stable tag: 1.0.0
+Tested up to: 6.9
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -22,6 +22,9 @@ Visit our live demonstration at [Live Plugin Demo - Solution First](https://plug
 * Size Control: Specify video width and height in % or px (e.g. 100% or 600px).
 * Privacy Notice: Toggle a GDPR-DSGVO notice, enter custom info text and link text, and point it to your privacy-policy URL.
 * Unlimited Videos: Free tier by default lets you add unlimited embeds. Have fun!
+* Full Translation: Decide whether you want to use this plugin with English translation or German translation.
+* No Advertising: Enjoy an advertising-free environment hence this Plugin does not display any advertising.
+* Anti iframe injection: All of our plugins are deeply checked by us in terms of it-security issues. We construct the creation of the iframe in a manual manner to prevent injections.
 
 **Manual Installation**
 1. Upload the entire `gdpr-dsgvo-compliant-embeds-for-youtube-videos` folder to the `/wp-content/plugins/` directory.
@@ -47,6 +50,10 @@ Please find our Imprint here [Solution First Imprint](https://solutionfirst.m00d
 7. **Add/Edit Video** screen with no input.
 
 == Changelog ==
+= 1.0.1 =
+* Updated assets: Updated banner information for 772x250 and 1544x500 banners.
+* Updated README: Added / Expanded Plugin information.
+
 = 1.0.0 =
 * Initial release: basic GDPR-DSGVO-compliant YouTube Video iframe embed with unlimited videos.
 
