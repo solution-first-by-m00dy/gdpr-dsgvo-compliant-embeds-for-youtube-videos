@@ -4,7 +4,7 @@
  * Plugin Name:     GDPR-DSGVO compliant Embeds for YouTube Videos
  * Plugin URI:      https://solutionfirst.m00dy.org/wp-plugin/
  * Description:     Enables GDPR-compliant embedding of multiple YouTube Video iframes with user consent, selectable light/dark design, and optional privacy policy notice.
- * Version:         1.0.0
+ * Version:         1.0.1
  * Author:          Solution First by M00dy
  * Author URI:      https://profiles.wordpress.org/solutionfirst/
  * Text Domain:     gdpr-dsgvo-compliant-embeds-for-youtube-videos
@@ -43,7 +43,7 @@ add_filter('plugin_action_links_' . plugin_basename(__FILE__), 'dsgvo_yt_plugin_
 // Constants
 define('DSGVO_YT_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('DSGVO_YT_PLUGIN_URL', plugin_dir_url(__FILE__));
-define('DSGVO_YT_VERSION', '1.0.0');
+define('DSGVO_YT_VERSION', '1.0.1');
 
 // Activation & Deactivation
 register_activation_hook(__FILE__, 'dsgvo_yt_activate');
