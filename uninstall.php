@@ -11,11 +11,11 @@ if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
 }
 
 // Delete all DSGVO YouTube Video posts and their metadata
-$videos = get_posts( array(
+$dsgvo_yt_videos = get_posts( array(
     'post_type'   => 'dsgvo_video',
     'numberposts' => -1,
     'post_status' => 'any',
 ) );
-foreach ( $videos as $video ) {
-    wp_delete_post( $video->ID, true );
+foreach ( $dsgvo_yt_videos as $dsgvo_yt_video ) {
+    wp_delete_post( $dsgvo_yt_video->ID, true );
 }
