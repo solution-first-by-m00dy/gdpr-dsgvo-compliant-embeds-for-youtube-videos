@@ -1,138 +1,136 @@
-# German translation for GDPR-DSGVO compliant Embeds for YouTube Videos.
 # Copyright (C) 2026 Tsambasis & Tsambasis
-# Distributed under GPLv2 or later.
+# This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
 "Project-Id-Version: GDPR-DSGVO compliant Embeds for YouTube Videos 1.1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gdpr-dsgvo-compliant-embeds-for-youtube-videos\n"
-"POT-Creation-Date: 2026-09-26 20:46+0000\n"
-"PO-Revision-Date: 2026-09-26 20:46+0000\n"
-"Last-Translator: Tsambasis & Tsambasis\n"
-"Language-Team: Tsambasis & Tsambasis\n"
-"Language: de_DE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: WordPress WP-CLI / Python gettext\n"
+"POT-Creation-Date: 2026-09-26T20:45:26+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: gdpr-dsgvo-compliant-embeds-for-youtube-videos\n"
 
 #. Plugin Name of the plugin
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php
 msgid "GDPR-DSGVO compliant Embeds for YouTube Videos"
-msgstr "GDPR-DSGVO-konforme Einbettungen von YouTube-Videos"
+msgstr ""
 
 #. Plugin URI of the plugin
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php
 msgid "https://solutionfirst.m00dy.org/wp-plugin/"
-msgstr "https://solutionfirst.m00dy.org/wp-plugin/"
+msgstr ""
 
 #. Description of the plugin
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php
 msgid "Embeds YouTube videos after consent, with per-video styles, notices and optional remembered choices."
-msgstr "Bindet YouTube-Videos nach Einwilligung ein, mit individuellen Designs, Hinweisen und optional gespeicherter Auswahl."
+msgstr ""
 
 #. Author of the plugin
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php
 msgid "Tsambasis & Tsambasis"
-msgstr "Tsambasis & Tsambasis"
+msgstr ""
 
 #. Author URI of the plugin
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php
 msgid "https://tsambasis.net/"
-msgstr "https://tsambasis.net/"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:26
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:27
 msgid "More information"
-msgstr "Mehr Informationen"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:258
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:312
 msgid "YouTube video player"
-msgstr "YouTube-Videoplayer"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:309
 #: includes/admin.php:73
 msgid "Load YouTube Video"
-msgstr "YouTube Video laden"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:310
 msgid "Unload videos and reset choice"
-msgstr "Videos entladen und Auswahl zurücksetzen"
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:311
 msgid "This video could not be loaded. Please contact the website owner."
-msgstr "Dieses Video konnte nicht geladen werden. Bitte wenden Sie sich an den Website-Betreiber."
+msgstr ""
 
 #: gdpr-dsgvo-compliant-embeds-for-youtube-videos.php:313
 msgid "Your choice has been reset. Videos will load only after you consent again."
-msgstr "Ihre Auswahl wurde zurückgesetzt. Videos werden erst nach Ihrer erneuten Zustimmung geladen."
+msgstr ""
 
 #: includes/admin.php:34
 msgid "Videos"
-msgstr "Videos"
+msgstr ""
 
 #: includes/admin.php:35
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 #: includes/admin.php:36
 msgid "Add New Video"
-msgstr "Neues Video hinzufügen"
+msgstr ""
 
 #: includes/admin.php:37
 msgid "Edit Video"
-msgstr "Video bearbeiten"
+msgstr ""
 
 #: includes/admin.php:38
 msgid "All Videos"
-msgstr "Alle Videos"
+msgstr ""
 
 #: includes/admin.php:57
 msgid "Video Settings"
-msgstr "Video Einstellungen"
+msgstr ""
 
 #: includes/admin.php:102
 #: includes/frontend.php:51
 msgid "Remember selection"
-msgstr "Auswahl merken"
+msgstr ""
 
 #: includes/admin.php:116
 msgid "Shortcode:"
-msgstr "Shortcode:"
+msgstr ""
 
 #: includes/admin.php:120
 msgid "Reset consent in page content"
-msgstr "Einwilligung im Seiteninhalt zurücksetzen"
+msgstr ""
 
 #. translators: %s: the standalone reset shortcode, displayed as code.
 #: includes/admin.php:123
 #, php-format
 msgid "Insert %s anywhere in the page content to show a separate reset button. It unloads all videos on the current page and removes the remembered choice for this website."
-msgstr "Fügen Sie %s an einer beliebigen Stelle im Seiteninhalt ein, um einen separaten Zurücksetzen-Button anzuzeigen. Er entlädt alle Videos auf der aktuellen Seite und entfernt die gespeicherte Auswahl für diese Website."
+msgstr ""
 
 #: includes/admin.php:132
 msgid "iframe Code:"
-msgstr "iframe-Code:"
+msgstr ""
 
 #: includes/admin.php:134
 msgid "Paste a YouTube embed iframe with an HTTPS source URL. Other iframe sources are not supported."
-msgstr "Fügen Sie den Einbettungs-iframe von YouTube mit einer HTTPS-Quelladresse ein. Andere iframe-Quellen werden nicht unterstützt."
+msgstr ""
 
 #: includes/admin.php:138
 msgid "Button Settings"
-msgstr "Buttoneinstellungen"
+msgstr ""
 
 #: includes/admin.php:141
 msgid "Button Text:"
-msgstr "Buttontext:"
+msgstr ""
 
 #: includes/admin.php:150
 msgid "Button Font Size:"
-msgstr "Button-Schriftgröße:"
+msgstr ""
 
 #: includes/admin.php:157
 #: includes/admin.php:289
@@ -140,7 +138,7 @@ msgstr "Button-Schriftgröße:"
 #: includes/admin.php:342
 #: includes/admin.php:401
 msgid "Theme default"
-msgstr "Theme-Standard"
+msgstr ""
 
 #: includes/admin.php:158
 #: includes/admin.php:290
@@ -148,184 +146,184 @@ msgstr "Theme-Standard"
 #: includes/admin.php:343
 #: includes/admin.php:402
 msgid "Theme default; leave empty to keep existing appearance."
-msgstr "Theme-Standard; leer lassen, um das bisherige Aussehen beizubehalten."
+msgstr ""
 
 #: includes/admin.php:162
 msgid "Button Type:"
-msgstr "Button Typ:"
+msgstr ""
 
 #: includes/admin.php:169
 msgid "Rounded"
-msgstr "Abgerundet"
+msgstr ""
 
 #: includes/admin.php:177
 msgid "Squared"
-msgstr "Eckig"
+msgstr ""
 
 #: includes/admin.php:181
 msgid "Style Settings"
-msgstr "Stileinstellungen"
+msgstr ""
 
 #: includes/admin.php:184
 msgid "Design:"
-msgstr "Design:"
+msgstr ""
 
 #: includes/admin.php:186
 msgid "Light"
-msgstr "Hell"
+msgstr ""
 
 #: includes/admin.php:187
 msgid "Dark"
-msgstr "Dunkel"
+msgstr ""
 
 #: includes/admin.php:188
 msgid "Custom"
-msgstr "Angepasst"
+msgstr ""
 
 #: includes/admin.php:194
 msgid "Overlay Background Color:"
-msgstr "Hintergrundfarbe Überlagerung:"
+msgstr ""
 
 #: includes/admin.php:204
 msgid "Button Background Color:"
-msgstr "Hintergrundfarbe Button:"
+msgstr ""
 
 #: includes/admin.php:214
 msgid "Button Text Color:"
-msgstr "Textfarbe Button:"
+msgstr ""
 
 #: includes/admin.php:224
 msgid "Privacy Info Text Color:"
-msgstr "Textfarbe Datenschutzinformationen:"
+msgstr ""
 
 #: includes/admin.php:234
 msgid "Size Settings (% or px)"
-msgstr "Größeneinstellungen (% oder px)"
+msgstr ""
 
 #: includes/admin.php:237
 msgid "Width:"
-msgstr "Breite:"
+msgstr ""
 
 #: includes/admin.php:244
 msgid "100% or 600px"
-msgstr "100% oder 600px"
+msgstr ""
 
 #: includes/admin.php:247
 msgid "Height:"
-msgstr "Höhe:"
+msgstr ""
 
 #: includes/admin.php:254
 msgid "100% or 450px"
-msgstr "100% oder 450px"
+msgstr ""
 
 #: includes/admin.php:257
 msgid "Privacy Settings"
-msgstr "Datenschutzeinstellungen"
+msgstr ""
 
 #: includes/admin.php:267
 msgid "Enable privacy notice"
-msgstr "Datenschutzhinweis aktivieren"
+msgstr ""
 
 #: includes/admin.php:272
 msgid "Privacy Policy Text:"
-msgstr "Text für den Datenschutzhinweis:"
+msgstr ""
 
 #: includes/admin.php:282
 msgid "Privacy Text Font Size:"
-msgstr "Schriftgröße des Datenschutztexts:"
+msgstr ""
 
 #: includes/admin.php:294
 msgid "Privacy Policy URL Text:"
-msgstr "Text für die URL der Datenschutzerklärung:"
+msgstr ""
 
 #: includes/admin.php:304
 msgid "Privacy Link Font Size:"
-msgstr "Schriftgröße des Datenschutzlinks:"
+msgstr ""
 
 #: includes/admin.php:316
 msgid "Privacy Policy URL:"
-msgstr "URL der Datenschutzerklärung:"
+msgstr ""
 
 #: includes/admin.php:326
 msgid "Overlay Message:"
-msgstr "Nachricht im Overlay:"
+msgstr ""
 
 #: includes/admin.php:331
 msgid "Optional text shown between the button and the privacy notice."
-msgstr "Optionaler Text, der zwischen Button und Datenschutzhinweis angezeigt wird."
+msgstr ""
 
 #: includes/admin.php:335
 msgid "Message Font Size:"
-msgstr "Schriftgröße der Nachricht:"
+msgstr ""
 
 #: includes/admin.php:346
 msgid "Load Behavior"
-msgstr "Ladeverhalten"
+msgstr ""
 
 #: includes/admin.php:356
 msgid "Load all videos on one page"
-msgstr "Alle teilnehmenden Videos auf einer Seite laden"
+msgstr ""
 
 #: includes/admin.php:358
 msgid "If this option is enabled for multiple videos on the same page, one click loads all enabled videos together."
-msgstr "Wenn diese Option bei mehreren Videos auf derselben Seite aktiv ist, lädt ein Klick alle aktivierten Videos gemeinsam."
+msgstr ""
 
 #: includes/admin.php:369
 msgid "Show remember selection"
-msgstr "Checkbox „Auswahl merken“ anzeigen"
+msgstr ""
 
 #: includes/admin.php:371
 msgid "Shows a checkbox in the overlay. If checked when loading, a site-wide cookie remembers consent for 180 days for videos with this option enabled. Use show_reset=\"true\" for a reset control inside the video, or place [dsgvo_video_reset] separately in the page content."
-msgstr "Zeigt eine Checkbox in der Überlagerung. Wenn sie beim Laden aktiviert ist, merkt sich ein websiteweites Cookie die Einwilligung für 180 Tage für Videos mit aktivierter Merkoption. Verwenden Sie show_reset=\"true\" für einen Zurücksetzen-Button innerhalb des Videos oder platzieren Sie [dsgvo_video_reset] separat im Seiteninhalt."
+msgstr ""
 
 #: includes/admin.php:375
 msgid "Checkbox design"
-msgstr "Checkbox-Design"
+msgstr ""
 
 #: includes/admin.php:377
 msgid "Existing design"
-msgstr "Bisheriges Design"
+msgstr ""
 
 #: includes/admin.php:378
 msgid "Modern design (larger checkbox)"
-msgstr "Modernes Design (größere Checkbox)"
+msgstr ""
 
 #: includes/admin.php:380
 msgid "The modern design is optional. Existing videos keep their current checkbox until you select it here."
-msgstr "Das moderne Design ist optional. Bestehende Videos behalten ihre bisherige Checkbox, bis Sie es hier auswählen."
+msgstr ""
 
 #: includes/admin.php:384
 msgid "Remember Selection Text:"
-msgstr "Text für „Auswahl merken“:"
+msgstr ""
 
 #: includes/admin.php:394
 msgid "Remember Selection Font Size:"
-msgstr "Schriftgröße von „Auswahl merken“:"
+msgstr ""
 
 #: includes/admin.php:406
 msgid "Remember Selection Text Color:"
-msgstr "Textfarbe von „Auswahl merken“:"
+msgstr ""
 
 #: includes/admin.php:523
 msgid "One or more size values were not saved because they contain unsupported CSS. The previous values have been kept."
-msgstr "Eine oder mehrere Größenangaben wurden nicht gespeichert, weil sie nicht unterstütztes CSS enthalten. Die bisherigen Werte bleiben erhalten."
+msgstr ""
 
 #: includes/admin.php:528
 msgid "The iframe was not saved because it is not a supported HTTPS YouTube embed. The previous embed has been kept."
-msgstr "Der iframe wurde nicht gespeichert, weil er keine unterstützte HTTPS-YouTube-Einbettung enthält. Die bisherige Einbettung bleibt erhalten."
+msgstr ""
 
 #: includes/frontend.php:30
 msgid "Load Video"
-msgstr "Video laden"
+msgstr ""
 
 #: includes/frontend.php:48
 msgid "Please see our"
-msgstr "Es gilt unsere"
+msgstr ""
 
 #: includes/frontend.php:49
 msgid "Privacy Policy"
-msgstr "Datenschutzerklärung"
+msgstr ""
 
 #: includes/frontend.php:94
 msgid "Reset YouTube choice"
-msgstr "YouTube-Auswahl zurücksetzen"
+msgstr ""
